@@ -1,0 +1,92 @@
+{
+  "exported_on": "2026-10-14",
+  "source_head": "fb4101f742021cdf1d1fda899dc4ee5c3bc1b878",
+  "snapshot": "Working-tree copies; SHA-256 hashes identify exact content. Uncommitted project settings and recovery assets are excluded.",
+  "files": [
+    {
+      "path": "Samples/SpatialGrid.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Combat/SpatialGrid.cs",
+      "sha256": "b423efc618764f10ef24c1e0c32ee8752173e929dbf77a051be5b079a247ab1e"
+    },
+    {
+      "path": "Samples/InstancedBatch.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Rendering/InstancedBatch.cs",
+      "sha256": "f91f9e788e7a592206e3b6e36b59ec8d3d9f205a973bcf93dd9ea435f2148767"
+    },
+    {
+      "path": "Samples/CardRoller.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Powers/CardRoller.cs",
+      "sha256": "724db4a6f860a731ce17c926b7a1b5b38de5628e707c572ec7ab97b92ae9af22"
+    },
+    {
+      "path": "Samples/BuildState.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Build/BuildState.cs",
+      "sha256": "cd31ef69aa5d9f86884abdeae9a9785732d229d17c1c006d45e990cd9028a901"
+    },
+    {
+      "path": "Samples/PowerDefinition.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Powers/PowerDefinition.cs",
+      "sha256": "6e6337231932b230f3fb435c4050f3f33ad06d7bae60a34420140dda3c939969"
+    },
+    {
+      "path": "Samples/PowerPoolConfig.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Powers/PowerPoolConfig.cs",
+      "sha256": "07e8dd9e0f79a53a23516ab77fafc02689dd210c7d53a944b7e334cd06c61978"
+    },
+    {
+      "path": "Samples/SkillDefinition.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Skills/SkillDefinition.cs",
+      "sha256": "8a58de6a82283291ef809f3689dcd0ce2ee0dbfbed3a442f6e7ad266abe2c607"
+    },
+    {
+      "path": "Samples/Enums.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Common/Enums.cs",
+      "sha256": "55294231d5fbc5290a1eb82e90153b1027f612b0f944b4f1e1b7ca7057d285f6"
+    },
+    {
+      "path": "Samples/RandomSource.cs",
+      "source": "Assets/_Project/Scripts/Gameplay/Common/RandomSource.cs",
+      "sha256": "d6c6339ab185d49f6c93dafa50dd5acc07b6782f38cefc65b0fdf61ab4ec39d3"
+    },
+    {
+      "path": "Tests/SpatialGridTests.cs",
+      "source": "Assets/_Project/Tests/EditMode/SpatialGridTests.cs",
+      "sha256": "94338fb79bbc38bc61339edac7fe94234a8bcdcc597ff6750578a627e56969cc"
+    },
+    {
+      "path": "Tests/CardRollerTests.cs",
+      "source": "Assets/_Project/Tests/EditMode/CardRollerTests.cs",
+      "sha256": "ebb029aa7f3a8a4e37e1babf41ffb43c7d6803da1292ac0458b0dd5870037265"
+    },
+    {
+      "path": "Tests/BuildStateTests.cs",
+      "source": "Assets/_Project/Tests/EditMode/BuildStateTests.cs",
+      "sha256": "fddd1c6eb6e82be5c3b3198b29f34d6e5cf72aa627e0291ce8a7b619e10acddb"
+    },
+    {
+      "path": "Tests/TestRandom.cs",
+      "source": "Assets/_Project/Tests/EditMode/TestRandom.cs",
+      "sha256": "c4b4666db3f0ff910fda2b59eacaa71a8988a58fd68544d5e19412d1d7aaa4de"
+    },
+    {
+      "path": "media/gameplay.jpg",
+      "source": "Marketing/itch/HEXBORNE_screenshot_1_horde.jpg",
+      "sha256": "490e84e8ecb8941c3042ffb2787132c41ef4a227ca199a63b21189603185b124"
+    },
+    {
+      "path": "media/boss.jpg",
+      "source": "Marketing/itch/HEXBORNE_screenshot_2_boss.jpg",
+      "sha256": "1d714bcd8122919d922074d936cf637b8ec6ccab9a987defffeb5624d2fc0ce7"
+    },
+    {
+      "path": "media/card-choice.jpg",
+      "source": "Marketing/itch/HEXBORNE_screenshot_3_levelup.jpg",
+      "sha256": "50ba55675050f8bf9b84681f6d7f2c054eb6b1ac20b916b544cecfc84cea515f"
+    },
+    {
+      "path": "media/heroes.jpg",
+      "source": "Marketing/itch/HEXBORNE_screenshot_4_heroes.jpg",
+      "sha256": "e5e9abfc0b72398f7e66d914778f0053c4ada0f07461bd7609b5b96fbbbd58bf"
+    }
+  ]
+}
