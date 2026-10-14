@@ -1,0 +1,16 @@
+# Portfolio only: exclude project caches, builds, credentials and editor output.
+Library/
+Temp/
+Logs/
+obj/
+Build/
+Builds/
+UserSettings/
+.vs/
+.idea/
+.env
+.env.*
+*.log
+*.csproj
+*.sln
+*.slnx
